@@ -1,5 +1,6 @@
 #Zach Sewell
-#Lines of text
+#Lines of text 
+#When prompted to "Enter a file name" You must provide the path to the desired file.
 """"""
 
 #Read file that user enters
